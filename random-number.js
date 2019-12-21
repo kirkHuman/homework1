@@ -6,6 +6,6 @@ function getRandom() {
 
 
 module.exports = getRandom();
-console.log(getRandom());
+//console.log(getRandom());
 
 
